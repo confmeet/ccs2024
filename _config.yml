@@ -1,7 +1,7 @@
-title: Conference 2020
+title: NSF CSSI/CyberTraining/SCIPE PI Meeting
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  August 12-13, 2024  /  Le Méridien Charlotte  /  Charlotte, NC
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -62,11 +62,111 @@ conference:
   speakers:
     show_firstname: true
 
-  location:
-    url: '/location'
-    map: true
-
   program:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+
+  # Navigation bar
+  navigation:
+    logo:
+      name:
+      # img: ''
+      url:
+    breakpoint: md
+    links:
+      - name: Venue
+        relative_url: /venue/
+      - name: Program
+        relative_url: /program/
+      - name: Talks
+        relative_url: /talks/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Archives
+        menu:
+          - name: 2024 (current)
+            disabled: true
+
+  # Link Preview for Sharing
+  link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
+    disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    logo:
+      img: 'poster.png'
+    links:
+      - name: Program
+        relative_url: /program/
+      - name: How to get there
+        relative_url: /venue/
+      - name: Tickets
+        disabled: true
+        absolute_url: ''
+
+  # Information boxes
+  info_bars:
+    - title: Annoucement bar placeholder
+      color: primary
+      main_only: true
+      text: |
+        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+
+        ---
+
+        Content below separator.
+
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
+    url: '/venue'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Venue'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 35.2173787, -80.8387142
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+
+    # Hide icons on talk overview page
+    hide_icons: false
+
+  speakers:
+    # Show first and last name
+    show_firstname: true
