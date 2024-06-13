@@ -75,6 +75,8 @@ conference:
       url:
     breakpoint: md
     links:
+      - name: Registration
+        relative_url: /registration/
       - name: Venue
         relative_url: /venue/
       - name: Program
@@ -101,13 +103,12 @@ conference:
     logo:
       img: 'poster.png'
     links:
+      - name: Registration
+        relative_url: /registration/
+      - name: Directions
+        relative_url: /venue/
       - name: Program
         relative_url: /program/
-      - name: How to get there
-        relative_url: /venue/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
 
   # Information boxes
   info_bars:
@@ -115,7 +116,7 @@ conference:
       color: primary
       main_only: true
       text: |
-        The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+        Website under construction. Latest announcements can be posted here.
 
         ---
 

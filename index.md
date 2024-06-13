@@ -20,11 +20,28 @@ We welcome abstracts for posters and short oral presentations. Talks may showcas
 
 ## Announcements
 
+- Save the date (August 12-13, 2024) as preparations are made to finalize the workshop funding.
+- Hotel Room Block
+- Registration - by July XX
+- Poster Abstracts - by August XX
+- Browse Poster Schedule and Abstracts - by August XX
+- Presentation slides available - by August XX
+- Digital posters available on Figshare
+- Final Report
+
+## Important Dates
+- Abstract submission: July XX
+- Registration: July XX
+- Hotel group rate cutoff: July XX
+- Meeting dates:  August 12th at X am - August 13th at Y PM.
+- Poster (pdf) upload: August XX
+
+
 ## Past PI Meeting Websites
-CSSI:
+- CSSI:
 [[2023]](https://www.cssi-pi2023.org/)
 [[2022]](https://cssi-pi-community.github.io/2022-meeting/)
 [[2020]](https://cssi-pi-community.github.io/2020-meeting/)
 
-CyberTraining:
+- CyberTraining:
 [[2023]](https://www.cssi-pi2023.org/)
