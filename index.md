@@ -2,7 +2,6 @@
 layout: home
 ---
 
-
 ## Overview
 !!! PLACEHOLDER MATERIAL; NEEDING UPDATES !!!
 
@@ -18,6 +17,8 @@ At least one representative (PI/Co-PI/senior personnel) from each active CSSI pr
 At NSF’s request, we extend a special invitation to researchers from the Computational and Data-Enabled Science and Engineering (CDS&E) and OAC Core Research (OAC Core) programs to participate in the meeting.
 
 We welcome abstracts for posters and short oral presentations. Talks may showcase your project but should also connect to the community by suggesting ways to partner, lessons learned from your project, or other aspects that are generalizable to the wider audience. (A limited number of oral presentations will be selected for breakouts and/or panels and will be 5-7 minutes in length.)    Submit HERE.  Due September 15
+
+## Announcements
 
 ## Past PI Meeting Websites
 CSSI:
