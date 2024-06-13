@@ -2,8 +2,8 @@ title: NSF CSSI/CyberTraining/SCIPE PI Meeting
 preposition: ''
 description: >-
   August 12-13, 2024  /  Le Méridien Charlotte  /  Charlotte, NC
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/cssi-ct-pi-meeting" # the subpath of your site, e.g. /blog
+url: "https://cui.eecps.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
