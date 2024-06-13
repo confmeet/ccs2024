@@ -12,6 +12,13 @@ name: Generate Website and add as Release
 #   - Packages the generated website
 #   - Creates a release based on the originating tag
 #   - Attaches the package to the release
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     name: Generate Website and add as Release
