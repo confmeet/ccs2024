@@ -3,8 +3,8 @@ name: Arcu Non Odio
 speakers:
   - Alex Rosales
 categories:
-  - Cat A
-  - Talk
+  - Session 2
+  - Poster
 links:
   - name: Recodring
     icon: video

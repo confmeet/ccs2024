@@ -4,7 +4,7 @@ speakers:
   - Tolga Philip
   - Alex Rosales
 categories:
-  - Cat A
-  - Talk
+  - Session 1
+  - Poster
 hide: true
 ---

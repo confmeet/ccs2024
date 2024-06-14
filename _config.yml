@@ -81,8 +81,8 @@ conference:
         relative_url: /venue/
       - name: Program
         relative_url: /program/
-      - name: Talks
-        relative_url: /talks/
+      - name: Posters
+        relative_url: /posters/
       - name: Speakers
         relative_url: /speakers/
       - name: Archives
@@ -160,9 +160,9 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Cat A
+      - name: Session 1
         color: info
-      - name: Cat B
+      - name: Session 2
         color: success
 
     # Hide icons on talk overview page
