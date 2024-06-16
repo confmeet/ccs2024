@@ -4,6 +4,6 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CCS.md
+  - README.md
 
 theme: jekyll-theme-minima
