@@ -8,3 +8,6 @@ include:
   - README.md
 
 remote_theme: pages-themes/slate@v0.2.0
+
+title: CSSI-Cybertraining-SCIPE 2024 PI Meeting
+description: Landing page for CCS 2024 PI Meeting
