@@ -144,13 +144,14 @@ conference:
     # display it.
     map:
       # Initial map center point
-      home_coord: 35.2173787, -80.8387142
+      home_coord: 35.2168, -80.8387142
       # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
       # The following do match the Bootstrap design not too badly:
       #   - Thunderforest.Neighbourhood
       #   - Esri.WorldTopoMap
       map_provider: "OpenStreetMap.Mapnik"
       default_zoom: 17
+      popup_text: "555 S McDowell St Tower, Charlotte, NC 28204"
 
   talks:
     # Talk categories

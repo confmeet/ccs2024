@@ -7,6 +7,10 @@ window.conference.map = (() => {
     const setup = (elId) => {
         map = L.map(elId).setView(config.home_coord, config.default_zoom);
 
+        var marker = L.marker(config.home_coord).addTo(map);
+
+        marker.bindPopup(config.popup_text).openPopup();
+
         L.tileLayer.provider(config.map_provider).addTo(map);
 
         L.easyButton('far fa-star', () => {
