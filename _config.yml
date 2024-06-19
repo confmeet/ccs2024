@@ -112,16 +112,11 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Annoucement bar placeholder
+    - title: Abstract submission and registration
       color: primary
       main_only: true
       text: |
-        Website under construction. Latest announcements can be posted here.
-
-        ---
-
-        Content below separator.
-
+        Abstract submission link coming soon. Registration link coming soon.
 
   # Live indications
   live:

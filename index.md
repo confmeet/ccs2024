@@ -3,39 +3,49 @@ layout: home
 ---
 
 ## Overview
-!!! PLACEHOLDER MATERIAL; NEEDING UPDATES !!!
 
-The CSSI PI meeting extends community building efforts of past Software Infrastructure for Sustained Innovation (SI2) and CSSI workshops. It provides a forum for:
+The joint CSSI-Cybertraining-SCIPE meeting brings together Principal
+Investigators (PIs) funded by these National Science Foundation programs to
+share competencies, best practices, provide feedback to the funding programs,
+and support these communities. PIs from these programs are required to create a
+poster, submit a digital version of the poster, and present a printed version of
+the poster (see detailed instructions below).
 
-- sharing technical information about projects while networking with other colleagues, initiatives, and NSF program directors;
-- exploring innovative topics emerging in the software and data infrastructure communities;
-- discussing and learning about community practices;
-- stimulating new ideas for achieving software and data sustainability and ensuring a diverse pipeline of CI researchers and professionals.
+The meeting is also open to National Science Foundation program directors, PIs
+funded by the CC*, OAC Core, and CDS&E programs.
 
-At least one representative (PI/Co-PI/senior personnel) from each active CSSI project is required by NSF to attend the meeting and present a poster on their project. For a collaborative project with multiple awards, only one representative from the entire project is required.   If the PI is unavailable they can identify someone else to represent the project. Please reach out to your cognizant PO from NSF if you have further questions.  NSF contact: Varun Chandola.
+## Meeting Details
 
-At NSF’s request, we extend a special invitation to researchers from the Computational and Data-Enabled Science and Engineering (CDS&E) and OAC Core Research (OAC Core) programs to participate in the meeting.
+- Lodging: We have a special rate at Le Meridien and the Sheraton Hotels (they
+  are in adjoining buildings). Please use this link (coming soon) to book a room
+  at the special rate.
+- Dates: August 12 and 13, 2024
+- Program: PDF Link (Coming Soon). A sign-up sheet for meeting with NSF program
+  directors.
+- Registration: Fee and Link (Coming Soon)
 
-We welcome abstracts for posters and short oral presentations. Talks may showcase your project but should also connect to the community by suggesting ways to partner, lessons learned from your project, or other aspects that are generalizable to the wider audience. (A limited number of oral presentations will be selected for breakouts and/or panels and will be 5-7 minutes in length.)    Submit HERE.  Due September 15
+# Poster Submission
 
-## Announcements
+PIs funded by the CSSI, Cybertraining or SCIPE programs are required to create a
+poster (one per award), submit a digital version of the poster, and present a
+printed version of the poster.
 
-- Save the date (August 12-13, 2024) as preparations are made to finalize the workshop funding.
-- Hotel Room Block
-- Registration - by July XX
-- Poster Abstracts - by August XX
-- Browse Poster Schedule and Abstracts - by August XX
-- Presentation slides available - by August XX
-- Digital posters available on Figshare
-- Final Report
+- Instructions: (Comming Soon)
+- Due date: (Coming Soon)
+- Submission Link: (Coming Soon)
 
-## Important Dates
+# Questions
+If you are a Cybertraining, SCIPE or CC* PI, please contact Hantao
+(hcui9@ncsu.edu). If you are a CSSI, OAC Core or CDS&E PI, please contact Vivak
+(vivak.patel@wisc.edu). If you are in both sets of groups, you are welcome to
+contact either Hantao or Vivak.
+
+<!-- ## Important Dates
 - Abstract submission: July XX
 - Registration: July XX
 - Hotel group rate cutoff: July XX
 - Meeting dates:  August 12th at X am - August 13th at Y PM.
-- Poster (pdf) upload: August XX
-
+- Poster (pdf) upload: August XX -->
 
 ## Past PI Meeting Websites
 - CSSI:
