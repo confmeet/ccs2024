@@ -112,11 +112,12 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Abstract submission and registration
+    - title: Abstract Submission and Registration are Open
       color: primary
       main_only: true
       text: |
-        Abstract submission link coming soon. Registration link coming soon.
+        - Abstract Submission: Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLScz0MWEa4VdE8qreb1IOqfy5j3HnjH0DUR9lvSU5rR3FCi1Ig/viewform) by July 12.
+        - Registration: Register [here](https://na.eventscloud.com/cssi-cyber24) by July XX. Registration fee is $150.
 
   # Live indications
   live:

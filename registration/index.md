@@ -4,8 +4,9 @@ layout: default
 
 # Registration
 
-Registration link coming see
+Register [here](https://na.eventscloud.com/cssi-cyber24) by July XX. If the
+hyperlink does not work, you can copy the following registration link:
 
-Explain registration fee
+https://na.eventscloud.com/cssi-cyber24
 
-Provide a link to hotel booking
+The registration fee is $150.
