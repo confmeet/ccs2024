@@ -32,10 +32,9 @@ posters right after the session.  Posters left after the meeting will be
 recycled.
 
 You will need to **print out and bring a physical copy of your poster on your own**;
-we cannot print posters on site.  See information on local print shops here.
-(This link is
-https://docs.google.com/document/d/1GDlkDHaMHVm3T4Vci8aIdv8AfmZ5UcDprjHLYObLCr0/edit?usp=sharing).
-
+we cannot print posters on site.  See information [in this Google
+Doc](https://docs.google.com/document/d/1GDlkDHaMHVm3T4Vci8aIdv8AfmZ5UcDprjHLYObLCr0/edit?usp=sharing)
+on local print shops.
 
 ## Poster Digital Upload
 
@@ -53,7 +52,7 @@ to upload your posters by **August 16th, 2024**.
    - NSF-CSSI-2024-Poster
    - NSF-Cybertraining-2024-Poster
    - NSF-OACother-2024-Poster
-<br>If you chose option the *OACother option* then you can also *add a keyword*
+<br>If you chose the `OACother` option then you can also add a keyword
 to identify which specific program your work belongs to e.g., if it’s SCIPE,
 then add a keyword “SCIPE”.
 5. For “License”, we recommend selecting “CC 4.0 International” (which should be the default).
