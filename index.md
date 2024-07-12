@@ -16,13 +16,13 @@ funded by the CC*, OAC Core, and CDS&E programs.
 
 ## Meeting Details
 
+- Registration: [Registration](registration/) due August 4.
 - Lodging: We have a special rate at Le Meridien and the Sheraton Hotels (they
-  are in adjoining buildings). Please use this link (coming soon) to book a room
-  at the special rate.
+  are in adjoining buildings). Please see instructions in [Venue](venue/) to
+  book a room at the special rate.
 - Dates: August 12 and 13, 2024
 - Program: PDF Link (Coming Soon). A sign-up sheet for meeting with NSF program
   directors.
-- Registration: Fee and Link (Coming Soon)
 
 ## Abstract Submission
 
