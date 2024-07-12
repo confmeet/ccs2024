@@ -52,8 +52,8 @@ to upload your posters by **August 16th, 2024**.
    - NSF-CSSI-2024-Poster
    - NSF-Cybertraining-2024-Poster
    - NSF-OACother-2024-Poster
-<br>If you chose the `OACother` option then you can also add a keyword
-to identify which specific program your work belongs to e.g., if it’s SCIPE,
+<br>**If you chose the `OACother` option** then you can also **add a keyword**
+to identify the specific program your work belongs to. For example, if it is SCIPE,
 then add a keyword “SCIPE”.
 5. For “License”, we recommend selecting “CC 4.0 International” (which should be the default).
 6. Add your NSF award # to the “Funding” section.
