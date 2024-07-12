@@ -24,7 +24,7 @@ funded by the CC*, OAC Core, and CDS&E programs.
   directors.
 - Registration: Fee and Link (Coming Soon)
 
-# Abstract Submission
+## Abstract Submission
 
 PIs funded by the CSSI, Cybertraining or SCIPE programs are required to create a
 poster (one per award), submit a digital version of the poster, and present a
@@ -38,7 +38,7 @@ printed version of the poster.
 - Instructions for poster preparation: [Poster Preparation](registration/)
 - Digital poster upload deadline: Friday, August 16, 2024
 
-# Questions
+## Questions
 If you are a Cybertraining, SCIPE or CC* PI, please contact Hantao
 (hcui9@ncsu.edu). If you are a CSSI, OAC Core or CDS&E PI, please contact Vivak
 (vivak.patel@wisc.edu). If you are in both sets of groups, you are welcome to
