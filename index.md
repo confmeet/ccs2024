@@ -24,7 +24,7 @@ funded by the CC*, OAC Core, and CDS&E programs.
   directors.
 - Registration: Fee and Link (Coming Soon)
 
-# Poster Submission
+# Abstract Submission
 
 PIs funded by the CSSI, Cybertraining or SCIPE programs are required to create a
 poster (one per award), submit a digital version of the poster, and present a
@@ -33,8 +33,10 @@ printed version of the poster.
 - Instructions: at least one PI or co-PI from an active award is required to
   attend and present a poster. For collaborative projects, only one poster is
   required.
-- Due date: Friday, July 12, 2024
-- Submission Link: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScz0MWEa4VdE8qreb1IOqfy5j3HnjH0DUR9lvSU5rR3FCi1Ig/viewform)
+- Poster abstract due date: Friday, July 12, 2024
+- Abstract submission Link: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScz0MWEa4VdE8qreb1IOqfy5j3HnjH0DUR9lvSU5rR3FCi1Ig/viewform)
+- Instructions for poster preparation: [Poster Preparation](registration/)
+- Digital poster upload deadline: Friday, August 16, 2024
 
 # Questions
 If you are a Cybertraining, SCIPE or CC* PI, please contact Hantao
