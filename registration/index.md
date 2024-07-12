@@ -7,9 +7,11 @@ layout: default
 ## Registration
 
 Register [*at this link*](https://na.eventscloud.com/cssi-cyber24) by August 4th. If the
-hyperlink does not work, you can copy the following registration link:
+hyperlink does not work, you can copy the following link and paste it into your browser:
 
+```
 https://na.eventscloud.com/cssi-cyber24
+```
 
 The registration fee is $150 per attendee.
 
