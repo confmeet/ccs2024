@@ -17,7 +17,12 @@ Please use the link for the NSF program sponsoring your project.
 
 If you are a government employee **who holds a government issued ID that labels
 you as a government employee** – be that state or federal, you can use the
-government rate. The hotel *does not accept university IDs* as a valid form of
-identification. If you think you qualify the government rate (129 USD per
+government rate.
+
+A campus ID does not qualify as a valid ID to receive the government rate; per
+Marriott standards, employees of a state university do not qualify for the
+government rate.
+
+If you think you qualify the government rate (129 USD per
 night), please confirm with the hotel and then email Hantao Cui (hcui9@ncsu.edu)
 for a link. You will be responsible for the eligibility verification.

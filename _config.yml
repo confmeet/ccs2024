@@ -79,12 +79,6 @@ conference:
         relative_url: /registration/
       - name: Venue
         relative_url: /venue/
-      - name: Program
-        relative_url: /program/
-      - name: Posters
-        relative_url: /posters/
-      - name: Speakers
-        relative_url: /speakers/
       - name: Archives
         menu:
           - name: 2024 (current)
