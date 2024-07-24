@@ -79,6 +79,8 @@ conference:
         relative_url: /registration/
       - name: Venue
         relative_url: /venue/
+      - name: Program
+        relative_url: /program/
       - name: Archives
         menu:
           - name: 2024 (current)
