@@ -158,10 +158,16 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Session 1
+      - name: Poster
+        color: warning
+      - name: Panel
+        color: dark
+      - name: Breakout
         color: info
-      - name: Session 2
-        color: success
+      - name: Talk
+        color: primary
+      - name: Others
+        color: primary
 
     # Hide icons on talk overview page
     hide_icons: false

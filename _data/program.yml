@@ -5,21 +5,78 @@ days:
   rooms:
   - name: Room A
     talks:
-      - name: Welcome Session
+      - name: Registration and Breakfast
+        time_start: '08:00'
+        time_end: '09:00'
+      - name: Opening Session
         time_start: '09:00'
         time_end: '10:00'
-      - name: Shared Panel - "CI for AI In Science Role of NAIRR"
+      - name: Poster Session 1 and Coffee
+        time_start: '10:00'
+        time_end: '11:00'
+      - name: Shared Panel (Panel I) CI for AI In Science - Role of NAIRR
         time_start: '11:00'
         time_end: '11:45'
+      - name: Breakouts Session I
+        time_start: '11:45'
+        time_end: '12:30'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '13:45'
+      - name: Cybertraining-SCIPE
+        time_start: '13:45'
+        time_end: '14:00'
+      - name: CSSI Panel - Future-Proofing Investments for CSSI Tools
+        time_start: '14:00'
+        time_end: '14:45'
+      - name: CSSI - Breakouts Session II
+        time_start: '14:45'
+        time_end: '15:30'
+      - name: Break
+        time_start: '15:30'
+        time_end: '16:00'
+      - name: Report Outs and Open Discussion
+        time_start: '16:00'
+        time_end: '17:00'
+      - name: Poster 2 and Reception
+        time_start: '17:00'
+        time_end: '19:00'
 
   - name: Room B
     talks:
-      - name: Arcu Non Odio
-        time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
+      - name: CyberTraining/SCIPE Panel - Future Directions of SCIPE and Cybertraining Programs
+        time_start: '14:00'
+        time_end: '14:45'
+      - name: CyberTraining/SCIPE - Breakouts Session II
+        time_start: '14:45'
+        time_end: '15:30'
+      - name: Break
+        time_start: '15:30'
+        time_end: '16:00'
+- name: Tuesday
+  abbr: Tu
+  date: 2024-08-13
+  rooms:
+  - name: Room A
     talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
+      - name: Registration and Breakfast
+        time_start: '08:00'
+        time_end: '09:00'
+      - name: Shared Panel (Panel III) The People Resource Gap - RSEs, Data/AI scientists
+        time_start: '09:00'
+        time_end: '09:45'
+      - name: OAC Resources and Program Highlights
+        time_start: '09:45'
+        time_end: '10:30'
+      - name: Posters 3 and Coffee
+        time_start: '10:30'
+        time_end: '11:30'
+      - name: Work on report from panels & breakout sessions
+        time_start: '11:30'
+        time_end: '12:30'
+      - name: Lunch
+        time_start: '12:30'
+        time_end: '13:30'
+      - name: NSF Office Hours (click to schedule)
         time_start: '13:30'
-        time_end: '14:30'
+        time_end: '15:30'

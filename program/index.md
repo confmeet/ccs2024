@@ -1,5 +1,3 @@
 ---
-layout: default
+layout: program
 ---
-
-# Program Coming Soon
