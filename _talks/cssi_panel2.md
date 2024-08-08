@@ -10,13 +10,6 @@ categories:
   - Panel
 ---
 
-Moderator: Abani Patra
-
-Topic: Future-Proofing Investments for CSSI Tools		Sustaining tools over changing hardware and software landscapes
-
-Panelists:
-
-- Ian Foster (U. Chicago/ Argonne)
-- Dan Negrut (UW Madison)
-- Daniel Crawford(Virgina Tech)
-- Mike Heroux(Sandia)
+This session will feature panelists Ian Foster (U. Chicago / ANL), Dan Negrut
+(UW Madison), Daniel Crawford (Virginia Tech), and Mike Heroux (Sandia), and is
+moderated by Abani Patra (Tufts).

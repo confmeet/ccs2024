@@ -1,10 +1,11 @@
 ---
-name: Joint Panel (Panel III) The People Resource Gap
+name: Joint Panel - The People Resource Gap
 speakers:
   - Dan Katz
   - Sandra Gesing
   - Michael Zentner
   - Chuang Wang
+  - Jeff Carver
 categories:
   - Panel
 ---

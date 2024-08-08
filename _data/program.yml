@@ -14,7 +14,7 @@ days:
   rooms:
   - name: Click for location
     talks:
-      - name: Registration
+      - name: Registration - Monday
         time_start: '08:00'
         time_end: '09:00'
       - name: Breakouts Session I
@@ -71,7 +71,7 @@ days:
   rooms:
   - name: Click for location
     talks:
-      - name: Registration
+      - name: Registration - Tuesday
         time_start: '08:00'
         time_end: '09:00'
       - name: (By invitation) Work on report from panels & breakout sessions
@@ -94,7 +94,7 @@ days:
         time_end: '13:30'
   - name: Carolina Ballroom
     talks:
-      - name: Joint Panel (Panel III) The People Resource Gap
+      - name: Joint Panel - The People Resource Gap
         time_start: '09:00'
         time_end: '09:45'
       - name: OAC Resources and Program Highlights

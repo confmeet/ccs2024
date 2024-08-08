@@ -10,10 +10,6 @@ categories:
   - Panel
 ---
 
-Moderator: Alan Sussman
-
-Panelists:
-- Manish Parashar(Utah)
-- Dave Hart (NCAR)
-- Ritu Arora()
-- Mary Ann Leung(BSSW)
+Ths session will feature panelists Manish Parashar (Utah), Dave Hart (NCAR),
+Ritu Arora (Wayne State), and Mary Ann Leung (Sustainable Horizons Institute),
+and is moderated by Alan Sussman (University of Maryland).

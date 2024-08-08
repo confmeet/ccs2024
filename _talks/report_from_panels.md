@@ -7,4 +7,3 @@ categories:
 Location: Executive Boardroom (Second Floor)
 
 - Work on report from panels & breakout sessions
-- Team Collaboration Meets

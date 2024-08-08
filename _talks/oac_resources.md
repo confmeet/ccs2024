@@ -1,6 +1,9 @@
 ---
 name: OAC Resources and Program Highlights
 speakers:
+  - Amy Apon
+  - Scotty Strachan
+  - David Hart
   - Sheikh Ghafoor
 categories:
   - Talk
