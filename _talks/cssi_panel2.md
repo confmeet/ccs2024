@@ -5,6 +5,7 @@ speakers:
   - Dan Negrut
   - Daniel Crawford
   - Mike Heroux
+  - Abani Patra
 categories:
   - Panel
 ---

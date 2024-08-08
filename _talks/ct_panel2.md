@@ -1,10 +1,11 @@
 ---
-name: CyberTraining/SCIPE Panel - Community Experiences and Evolving Needs (TBD)
+name: CyberTraining/SCIPE Panel - Community Experiences and Evolving Needs
 speakers:
   - Manish Parashar
   - Dave Hart
   - Ritu Arora
   - Mary Ann Leung
+  - Alan Sussman
 categories:
   - Panel
 ---

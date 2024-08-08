@@ -1,7 +1,9 @@
 ---
 name: Opening Session
 speakers:
-  - K. Antipas
+  - Mary Thomas
+  - Abani Patra
+  - Katerina Antypas
 categories:
   - Talk
 ---

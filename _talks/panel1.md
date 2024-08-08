@@ -1,10 +1,11 @@
 ---
-name: Joint Panel (Panel I) CI for AI In Science - Role of NAIRR
+name: Joint Panel - CI for AI In Science - Role of NAIRR
 speakers:
   - Katie Antypas
   - Varun Chandola
   - Ben Brown
   - Dhabaleswar Panda
+  - Dan Stanzione
 categories:
   - Panel
 ---
