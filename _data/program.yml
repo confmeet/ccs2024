@@ -31,10 +31,10 @@ days:
       - name: Opening Session
         time_start: '09:00'
         time_end: '10:00'
-      - name: Shared Panel (Panel I) CI for AI In Science - Role of NAIRR
+      - name: Joint Panel (Panel I) CI for AI In Science - Role of NAIRR
         time_start: '11:00'
         time_end: '11:45'
-      - name: CyberTraining/SCIPE Panel - Future Directions of SCIPE and Cybertraining Programs
+      - name: CyberTraining/SCIPE Panel - Community Experiences and Evolving Needs (TBD)
         time_start: '14:00'
         time_end: '14:45'
       - name: Report Outs and Open Discussion
@@ -89,18 +89,21 @@ days:
       - name: Breakfast
         time_start: '08:00'
         time_end: '09:00'
+      - name: Collaborative Meetings
+        time_start: '11:30'
+        time_end: '12:30'
       - name: Lunch
         time_start: '12:30'
         time_end: '13:30'
   - name: Carolina Ballroom
     talks:
-      - name: Shared Panel (Panel III) The People Resource Gap - RSEs, Data/AI scientists
+      - name: Joint Panel (Panel III) The People Resource Gap
         time_start: '09:00'
         time_end: '09:45'
       - name: OAC Resources and Program Highlights
         time_start: '09:45'
         time_end: '10:30'
-      - name: Cybertraining-SCIPE
+      - name: On Cybertraining and SCIPE (TBD)
         time_start: '11:30'
         time_end: '12:00'
   - name: Symphony IV, V, VI, VIII

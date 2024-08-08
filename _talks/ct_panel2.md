@@ -1,5 +1,5 @@
 ---
-name: CyberTraining/SCIPE Panel - Future Directions of SCIPE and Cybertraining Programs
+name: CyberTraining/SCIPE Panel - Community Experiences and Evolving Needs (TBD)
 speakers:
   - Manish Parashar
   - Dave Hart

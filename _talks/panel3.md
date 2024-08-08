@@ -1,5 +1,5 @@
 ---
-name: Shared Panel (Panel III) The People Resource Gap - RSEs, Data/AI scientists
+name: Joint Panel (Panel III) The People Resource Gap
 speakers:
   - Dan Katz
   - Sandra Gesing
@@ -9,8 +9,8 @@ categories:
   - Panel
 ---
 
-Panelists:
-- Dan Katz(UIUC)
-- Sandra Gesing(US-RSE)
-- M. Zentner (UCSD)
-- Chuang Wang (UNCC)
+Everyone is welcome to attend.
+
+This panel will feature Dan Katz (UIUC), Sandra Gesing (US-RSE), Michael Zentner
+(UCSD/SDSC) and Chuang Wang (UNCC). This panel will be moderated by Jeff Carver
+(University of Alabama).

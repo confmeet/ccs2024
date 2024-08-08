@@ -20,6 +20,6 @@ categories:
 - Training resources for PIs (domain scientists) and RSE/computer scientists
   - facilitated by Mary Thomas (San Diego Super Computing Center)
   - Governor's Ballroom 3 & 4
-- Enabling the ML/AI based transformation of science discovery and innovation 
+- Topic TBD
   - facilitated by Shaown Wang (University of Illinois -- Urbana-Champaign)
   - Governor's Ballroom 5 & 6
