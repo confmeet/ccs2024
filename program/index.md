@@ -5,6 +5,7 @@ layout: program
 In the following table:
 - click on the days to see the schedule for that day.
 - **click on event titles** for more details.
+- Joint Panels are jointly hosted by the CSSI, OAC Core, Cybertraining and SCIPE programs. All participants are welcome to attend.
 
 A spreadsheet version of the schedule can be viewed at [this
 link](https://docs.google.com/spreadsheets/d/1P9CUMVTAUvniNOvJa5Vwih_58MP6O04C/edit?usp=sharing&ouid=116357803512731351318&rtpof=true&sd=true).
