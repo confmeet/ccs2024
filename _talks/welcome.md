@@ -6,10 +6,6 @@ categories:
   - Talk
 ---
 
-Welcome  		15 minutes      A. Patra/ M. Thomas	Co-Chairs
-
-Keynote talk 		30 minutes  K. Antipas,  	NSF/OAC Director
-
-Q&A (s)		10 minutes
-
-Transition to Posters
+Opening remarks will be given by the organizing committee co-chairs (Mary Thomas
+and Abani Patra). This will be followed by a keynote address from Katerina
+Antypas (NSF/OAC Director), and period of Q&A.

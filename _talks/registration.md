@@ -1,7 +1,10 @@
 ---
-name: Registration and Breakfast
+name: Registration
 categories:
   - Others
 ---
 
-Poster 1 Session Set-up Time
+Registration Location: Outside of Symphony Ballrooms
+
+Please collect your badge, breakout room assignments, and have some breakfast.
+If you are part of poster session 1, please set up your poster.

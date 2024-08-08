@@ -1,13 +1,20 @@
 ---
-name: NSF Office Hours (click to schedule)
+name: NSF Office Hours (click to sign up)
 categories:
   - Meeting
 ---
 
-Click the links below to schedule a meeting with the NSF officers:
+Click [here](https://docs.google.com/spreadsheets/d/1NIoRWUY_T4eAq0fyK7Gmyz_SnMZ_miQ_sG7bCSQC4hM/edit?usp=sharing) to sign up for office hours with the NSF officers.
 
-- [Marlon Pierce](https://calendly.com/vrpatel6-wisc/meet-with-varun-chandola-clone)
-- [Varun Chandola](https://calendly.com/vrpatel6-wisc/meet-with-ashok-srinivasan-clone)
-- [Sharon Geva](https://calendly.com/vrpatel6-wisc/meet-with-sheikh-ghafoor-clone)
-- [Sheikh Ghafoor](https://calendly.com/vrpatel6-wisc/meet-with-amy-apon-clone)
-- [Amy Apon](https://calendly.com/vrpatel6-wisc/meet-with-amy-apon)
+The locations for the office hours are:
+
+- Marlon Pierce
+  - Mecklenburg I
+- Varun Chandola
+  - Mecklenburg II
+- Sharon Geva
+  - Mecklenburg III
+- Sheikh Ghafoor
+  - Governor's Ballroom 1 & 2
+- Amy Apon
+  - Governor's Ballroom 3 & 4

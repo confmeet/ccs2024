@@ -4,7 +4,10 @@ categories:
   - Breakout
 ---
 
-1. Community building & broader impacts (should discuss metrics)
-2. Sustainability & Continuing Training
-3. Metrics for Cybertraining/SCIPE programs and outreach
-4. Re-skilling
+- Community building & broader impacts
+  - facilitated by Dhruva Chakravorty (Texas A&M).
+  - Governor's Ballroom 3 & 4
+- Sustainability & Continuing Training
+  - facilitated by Jane Combs (University of Cincinnati)
+  - Governor's Ballroom 5 & 6
+- Metrics for Cybertraining/SCIPE programs and outreach

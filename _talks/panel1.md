@@ -8,11 +8,7 @@ speakers:
 categories:
   - Panel
 ---
-Moderator: Dan Stanzione, (TACC/UT Austin)
 
-Panelists: 
-
-- Katie Antypas (NSF)
-- Varun Chandola(NSF)
-- Ben Brown (DOE/OASCR)
-- DK Panda (Ohio State University)
+This session will feature panelists Katerina Antypas (NSF), Varun Chandola
+(NSF), Ben Brown (DOE) and DK Panda (OSU) and is moderated by Dan Stanzione
+(TACC/UT Austin).

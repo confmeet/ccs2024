@@ -149,8 +149,8 @@ main.container img {
     // Total available container width is 1110px
 
     // Width of columns with content (default)
-    width: 245px;
-    min-width: 245px;
+    width: 120px;
+    min-width: 180px;
 
     // Spacing between columns
     &.col-space {
@@ -193,6 +193,14 @@ main.container img {
     }
   }
 }
+
+.limited-width {
+    max-width: 150px; /* Adjust this value as needed */
+    width: 150px; /* Optional: Set a fixed width */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
 
 // Speaker
 .speakergroup {
