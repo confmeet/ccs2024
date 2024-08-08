@@ -12,7 +12,7 @@ The locations for the office hours are:
   - Mecklenburg I
 - Varun Chandola
   - Mecklenburg II
-- Sharon Geva
+- Sharon Geva and Thomas Gulbransen
   - Mecklenburg III
 - Sheikh Ghafoor
   - Governor's Ballroom 1 & 2
