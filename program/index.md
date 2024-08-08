@@ -3,6 +3,7 @@ layout: program
 ---
 
 In the following table:
+- click on the days to see the schedule for that day.
 - **click on event titles** for more details.
 
 A spreadsheet version of the schedule can be viewed at [this
