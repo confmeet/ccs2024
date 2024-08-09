@@ -12,7 +12,7 @@ categories:
   - facilitated by Alan Sussman (University of Maryland)
   - Mecklenburg II
 - Role of RSEs and other support staff
-  - Jeff Carver (University of Alabama -- Tuscaloosa)
+  - Jeff Carver (University of Alabama)
   - Mecklenburg III
 - Designing specific AI tools for science discovery and innovation
   - facilitated by Vivak Patel (University of Wisconsin -- Madison)
