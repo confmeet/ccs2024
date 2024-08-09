@@ -10,6 +10,7 @@ In the following table:
 A spreadsheet version of the schedule can be viewed at [this
 link](https://docs.google.com/spreadsheets/d/1P9CUMVTAUvniNOvJa5Vwih_58MP6O04C/edit?usp=sharing&ouid=116357803512731351318&rtpof=true&sd=true).
 
+🚀🚀🚀 An iCal calendar can be downloaded [here]({{ site.baseurl }}/assets/2024_NSF_CSSI_PI_Meeting.ics). Kudos to T. Andrew Manning (UIUC) for creating this.
 
 Poster schedule: view the poster schedule:
 - [Session
