@@ -13,4 +13,5 @@ categories:
 This session features brief presentations from key OAC program individuals. The
 speakers include CC* representatives Amy Apon (NSF) and Scotty Strachan (Nevada
 System of Higher Education); ACCESS representative David Hart (NSF NCAR); and
-OAC Core / CDS&E representatives Shiekh Ghafoor (NSF) and Sharmistha Bagchi-Sen (NSF).
+OAC Core / CDS&E / CyberTraining representatives Shiekh Ghafoor (NSF) ad
+Sharmistha Bagchi-Sen (NSF).
