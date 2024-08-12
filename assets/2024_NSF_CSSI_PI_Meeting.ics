@@ -153,10 +153,9 @@ DTSTAMP:20240809T155706Z
 UID:5c4ae2ed-97eb-4f2c-b4d0-4c78cd6c1f3d
 SUMMARY:Opening Session
 DTSTART;TZID=America/New_York:20240812T090000
-DTEND;TZID=America/New_York:20240812T100000
+DTEND;TZID=America/New_York:20240812T094500
 DESCRIPTION:Opening remarks will be given by the organizing committee co-ch
- airs (Mary Thomas and Abani Patra). This will be followed by a keynote addr
- ess from Katerina Antypas (NSF/OAC Director)\, and period of Q&A.
+ airs (Mary Thomas and Abani Patra).
 LOCATION:Carolina Ballroom
 END:VEVENT
 BEGIN:VEVENT
@@ -164,8 +163,8 @@ LAST-MODIFIED:20240809T155706Z
 DTSTAMP:20240809T155706Z
 UID:c4a0bf26-5d48-47fc-9893-9bc7630cef90
 SUMMARY:Poster Session 1 and Coffee
-DTSTART;TZID=America/New_York:20240812T100000
-DTEND;TZID=America/New_York:20240812T110000
+DTSTART;TZID=America/New_York:20240812T094500
+DTEND;TZID=America/New_York:20240812T104500
 DESCRIPTION:Please join us for the first poster session. The presenters for
   poster session 1 are listed here. Please click through the tabs at the bot
  tom of the sheet.
@@ -176,7 +175,7 @@ LAST-MODIFIED:20240809T155706Z
 DTSTAMP:20240809T155706Z
 UID:757817e7-316a-4f22-bb60-2e29c76e1f04
 SUMMARY:(Panel) CI for AI in Science: Role of NAIRR
-DTSTART;TZID=America/New_York:20240812T110000
+DTSTART;TZID=America/New_York:20240812T104500
 DTEND;TZID=America/New_York:20240812T114500
 DESCRIPTION:This session will feature panelists Katerina Antypas (NSF)\, Va
  run Chandola (NSF)\, Ben Brown (DOE) and DK Panda (OSU) and is moderated by
@@ -447,12 +446,22 @@ DESCRIPTION:This session is for the organizing committee and for breakout s
 LOCATION:Executive Boardroom (2nd Floor)
 END:VEVENT
 BEGIN:VEVENT
+LAST-MODIFIED:20240811T155706Z
+DTSTAMP:20240809T155716Z
+UID:dc075fa7-e7d7-47f1-a408-24f7db7a0478
+SUMMARY:Keynote from OAC Director
+DTSTART;TZID=America/New_York:20240813T113000
+DTEND;TZID=America/New_York:20240813T120000
+DESCRIPTION:Please join Katerina Antypas (NSF/OAC Director) for a keynote address, followed by Q&A.
+LOCATION:Carolina Ballroom
+END:VEVENT
+BEGIN:VEVENT
 LAST-MODIFIED:20240809T155706Z
 DTSTAMP:20240809T155706Z
 UID:dc075fa7-e7d7-47f2-a408-24f7db7a0478
-SUMMARY:On Cybertraining and SCIPE
-DTSTART;TZID=America/New_York:20240813T113000
-DTEND;TZID=America/New_York:20240813T120000
+SUMMARY:Cybertraining - CIP and SCIPE contributions to ACCESS and NAIRR Pilot
+DTSTART;TZID=America/New_York:20240813T120000
+DTEND;TZID=America/New_York:20240813T123000
 DESCRIPTION:Please join Sharon Geva (NSF) for a presentation and discussion
   on Cybertraining and SCIPE initiatives.
 LOCATION:Carolina Ballroom
