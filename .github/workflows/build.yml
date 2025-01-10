@@ -1,8 +1,10 @@
-# Gets triggered upon the creation of a new tag
+# Gets triggered on push and tags
 on:
   push:
+    branches:
+      - '**'  # Matches all branches
     tags:
-    - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
+      - 'v*' # Matches tags with the name "v*", i.e. v1.0, v20.15.10
 
 name: Generate Website and add as Release
 # Performs the following steps:
